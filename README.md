@@ -14,8 +14,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/hazhir00/Blog-Preview-Card.git)
+- Live Site URL: [Site URL here](https://blog-preview-card-frontend-mentor002.netlify.app)
 
 ## My process
 
